@@ -1,4 +1,4 @@
-# 👋 Oi, eu sou o Fernando Pavani
+# Oi, eu sou o Fernando Pavani
 
 Sou um operador multi-domínio: construo empresas, invisto em outras e desenho a arquitetura técnica por trás delas — tudo ao mesmo tempo, e de propósito.  
 Acredito que as melhores ideias nascem no cruzamento entre áreas: fintech, regulação, produto e agentes de IA conversando entre si.
