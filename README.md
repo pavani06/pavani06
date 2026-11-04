@@ -1,55 +1,59 @@
-# Oi, eu sou o Fernando Pavani
+# Fernando Pavani
 
-Sou um operador multi-domínio: construo empresas, invisto em outras e desenho a arquitetura técnica por trás delas — tudo ao mesmo tempo, e de propósito.  
-Acredito que as melhores ideias nascem no cruzamento entre áreas: fintech, regulação, produto e agentes de IA conversando entre si.
+**Founder by experience. Technical builder by curiosity.**
 
-🤖 Construindo **agentes de IA** que vendem, operam e se auto-monitoram  
-💳 Anos mergulhado no **fintech brasileiro** — BACEN, CVM, FIDC, SCD, consignado  
-📈 **Investidor** em empresas de tecnologia e serviços financeiros  
-🌎 Baseado em **São Paulo, Brasil**  
-🚴 Arquiteto de sistemas por ofício, ciclista por escolha
+I have spent years building companies, investing in others and working inside Brazilian fintech and credit regulation. Somewhere along the way I got curious enough about how the machine works to start building it myself: AI agents, the systems that keep them honest, and the small tools I need along the way.
 
-> 🛠️ *Transformar sistemas complexos em produtos simples — com tecnologia, transparência e foco em quem usa.*
+I am not a career engineer, and I am not starting from zero. I am a founder who builds.
+
+Based in São Paulo, Brazil.
 
 ---
 
-## 🚀 No que estou trabalhando
+## Questions I keep coming back to
 
-- 🛍️ **KODA** — agente de IA para e-commerce via WhatsApp, sob a marca **House of Pace (HoP)**.
-- 🧠 **Infraestrutura agêntica** — agentes de longa duração, governança multi-agente (hub-and-spoke, papéis formais, contratos de despacho) e arquitetura própria de contexto e memória.
-- 🔭 **Observabilidade de agentes** — Control Tower, OpenTelemetry e avaliações com LLM-as-judge para saber, de verdade, se o agente está fazendo um bom trabalho.
-- 🏦 **Fintech & crédito** — estruturação e análise de operações sob a regulação brasileira.
-
----
-
-## 🧰 Ferramentas do dia a dia
-
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat&logo=telegram&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+- How do you know, for real, that an AI agent is doing good work?
+- How do you govern a team of agents, and the people around them, without slowing everything down?
+- How do complex systems like credit, regulation and operations turn into simple products?
+- What does endurance teach about building companies? So far: steady pace beats the isolated sprint.
 
 ---
 
-## 📊 Atividade no GitHub
+## What I'm building
+
+- **GovEvo**: the system where my agents operate, evolve and are governed day to day.
+- **KODA**: an AI agent for e-commerce over WhatsApp, under the **House of Pace (HoP)** brand.
+
+Both are private.
+
+---
+
+## Public experiments
+
+This profile is the person and the questions. The repositories are the experiments and the evidence.
+
+- [llm-council](https://github.com/pavani06/llm-council): several LLMs from different providers answer the same question, review each other blind, and a chair outside the council synthesizes. CLI and MCP server.
+- [papers-journal](https://github.com/pavani06/papers-journal): a daily journal of the Hugging Face Daily Papers, triaged against a declared interest profile.
+- [DataJud](https://github.com/pavani06/DataJud): a small local client for the public DataJud/CNJ court-data API that keeps the raw response and the provenance of every query.
+- [macro-br-juros](https://github.com/pavani06/macro-br-juros): Brazilian interest-rate and implied-inflation curves as pure TypeScript functions.
+- [building-in-public](https://github.com/pavani06/building-in-public): where notes on what I build, what broke and what I learned will go.
+
+---
+
+## Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pavani06/pavani06/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pavani06/pavani06/output/github-contribution-grid-snake.svg" />
-  <img alt="Gráfico de contribuições do Fernando" src="https://raw.githubusercontent.com/pavani06/pavani06/output/github-contribution-grid-snake.svg" />
+  <img alt="Fernando's contribution graph" src="https://raw.githubusercontent.com/pavani06/pavani06/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
 
-## 🧠 Curiosidades
+## Off the keyboard
 
-- Trabalho em vários domínios ao mesmo tempo — a síntese entre eles é minha vantagem competitiva.
-- Meu stack atual é o **GovEvo** — onde meus agentes operam, evoluem e são governados no dia a dia.
-- Levo o pedal tão a sério quanto os dashboards: se dá pra medir, eu estou medindo. 🚴‍♂️
-- Pedalar ensina o mesmo que empreender: ritmo constante vence sprint isolado.
+I take cycling as seriously as dashboards: if it can be measured, I am measuring it. Long rides and long-running companies ask for the same thing, a pace you can hold.
 
 ---
 
-📫 **Vamos conversar:**  
-[LinkedIn](https://www.linkedin.com/in/fernandopavani/) · [Email](mailto:pavani06@gmail.com)
+**Let's talk:** [LinkedIn](https://www.linkedin.com/in/fernandopavani/) · [Email](mailto:pavani06@gmail.com)
