@@ -24,7 +24,7 @@ Based in São Paulo, Brazil.
 - **GovEvo**: the system where my agents operate, evolve and are governed day to day.
 - **KODA**: an AI agent for e-commerce over WhatsApp, under the **House of Pace (HoP)** brand.
 
-Both are private for now. What I can share shows up in the public repositories below.
+Both are private.
 
 ---
 
@@ -36,7 +36,7 @@ This profile is the person and the questions. The repositories are the experimen
 - [papers-journal](https://github.com/pavani06/papers-journal): a daily journal of the Hugging Face Daily Papers, triaged against a declared interest profile.
 - [DataJud](https://github.com/pavani06/DataJud): a small local client for the public DataJud/CNJ court-data API that keeps the raw response and the provenance of every query.
 - [macro-br-juros](https://github.com/pavani06/macro-br-juros): Brazilian interest-rate and implied-inflation curves as pure TypeScript functions.
-- [building-in-public](https://github.com/pavani06/building-in-public): notes on what I am building, what broke and what I learned.
+- [building-in-public](https://github.com/pavani06/building-in-public): where notes on what I build, what broke and what I learned will go.
 
 ---
 
